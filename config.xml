@@ -5,7 +5,7 @@
         id        = "it.pentatech.progettoidea"
         versionCode = "2"
         version   = "1.1">
-    <name>Progetto IDEA mobile</name>
+    <name>Progetto IDEA</name>
 
     <description>
         Applicazione mobile di supporto al progetto IDEA
